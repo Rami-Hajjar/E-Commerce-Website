@@ -13,7 +13,7 @@ const products = [
       },
       {
         code: "white",
-        img: "./white 4090.jpg",
+        img: "./white_4090.jpg",
       },
     ],
   },
@@ -24,11 +24,11 @@ const products = [
     colors: [
       {
         code: "White",
-        img: "./White Ram.jpg",
+        img: "./White_Ram.jpg",
       },
       {
         code: "Black",
-        img: "./Black Ram.jpg",
+        img: "./Black_Ram.jpg",
       },
     ],
   },
@@ -39,11 +39,11 @@ const products = [
     colors: [
       {
         code: "Ryzen 7",
-        img: "./7800x3d.png",
+        img: "./Ryzen_7.png",
       },
       {
         code: "Ryzen 9",
-        img: "./ryzen_9-removebg-preview.png",
+        img: "./Ryzen_9.png",
       },
     ],
   },
@@ -54,11 +54,11 @@ const products = [
     colors: [
       {
         code: "with heatsink",
-        img: "./990 heatsink.webp",
+        img: "./990_heatsink.webp",
       },
       {
         code: "without heatsink",
-        img: "./990 ad.jpg",
+        img: "./990_ad.jpg",
       },
     ],
   },
@@ -69,11 +69,11 @@ const products = [
     colors: [
       {
         code: "Black",
-        img: "./black nzxt.jpg",
+        img: "./black_nzxt.jpg",
       },
       {
         code: "White",
-        img: "./white nzxt.jpg",
+        img: "./white_nzxt.jpg",
       },
     ],
   },
