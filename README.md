@@ -62,5 +62,4 @@ Electronic-Store/
 ---
 
 ## 🙌 Credits
-This is a web development project collaboration to showcase  
-front-end and back-end collaboration in building a modern online storefront.
+This is a web development project collaboration to showcase front-end and back-end collaboration in building a modern online storefront.
