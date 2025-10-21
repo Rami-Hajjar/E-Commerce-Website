@@ -1,4 +1,4 @@
-\# 🏬 Electronic Store
+# 🏬 Electronic Store
 
 Welcome to our Electronic Store!  
 This project showcases a mock-up for an electronic store website focused on computer hardware.  
@@ -6,7 +6,7 @@ Below is a comprehensive guide to understand and work with the project.
 
 ---
 
-\## 📑 Table of Contents
+## 📑 Table of Contents
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
 - [Project Structure](#-project-structure)
@@ -16,7 +16,7 @@ Below is a comprehensive guide to understand and work with the project.
 
 ---
 
-\## 🚀 Features
+## 🚀 Features
 - **Navigation Bar:** Includes categories for different types of computer hardware.  
 - **Product Slider:** A dynamic slider showcasing featured products.  
 - **Product Details:** Detailed view of selected products with images, descriptions, and purchase options.  
@@ -28,14 +28,14 @@ Below is a comprehensive guide to understand and work with the project.
 
 ---
 
-\## 💻 Technologies Used
+## 💻 Technologies Used
 - **HTML** – Structure and layout  
 - **CSS** – Styling and responsive design  
 - **JavaScript** – Interactivity and dynamic content  
 
 ---
 
-\## 📁 Project Structure
+## 📁 Project Structure
 \```
 Electronic-Store/
 │
@@ -50,7 +50,7 @@ Electronic-Store/
 
 ---
 
-\## ▶️ How to Run
+## ▶️ How to Run
 1. **Clone the repository**
    \```
    git clone https://github.com/your-username/electronic-store.git
@@ -62,7 +62,7 @@ Electronic-Store/
 
 ---
 
-\## 👥 Team Members
+## 👥 Team Members
 \| Name | Role | Contact |
 \|------|------|----------|
 \| **Abdullah Shibib** | Full Stack Developer | 📧 [abdullahshibib@yahoo.com](mailto:abdullahshibib@yahoo.com) |
@@ -71,6 +71,6 @@ Electronic-Store/
 
 ---
 
-\## 🙌 Credits
+## 🙌 Credits
 This project was created as part of a web development assignment to showcase  
 front-end and back-end collaboration in building a modern online storefront.
