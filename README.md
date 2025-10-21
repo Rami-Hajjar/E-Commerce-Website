@@ -62,5 +62,5 @@ Electronic-Store/
 ---
 
 ## 🙌 Credits
-This project was created as part of a web development assignment to showcase  
+This is a web development project collaboration to showcase  
 front-end and back-end collaboration in building a modern online storefront.
