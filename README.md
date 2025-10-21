@@ -1,43 +1,52 @@
-Welcome to our Electronic Store! This project showcases a mock-up for an electronic store website with a focus on computer hardware. Below is a comprehensive guide to understand and work with the project.
+## 🏬 Electronic Store
 
-Table of Contents
+Welcome to our **Electronic Store**!  
+This project showcases a mock-up for an electronic store website focused on **computer hardware**.  
+Below is a comprehensive guide to understand and work with the project.
 
--Features
+---
 
--Technologies Used
+### 📑 Table of Contents
 
--Installation
+- [Features](#-features)  
+- [Technologies Used](#-technologies-used)  
+- [Installation](#-installation)  
+- [Usage](#-usage)  
+- [Project Structure](#-project-structure)
 
--Usage
+---
 
--Project Structure
+### 🚀 Features
 
-Features
+- **Navigation Bar:** Includes categories for different types of computer hardware.  
+- **Product Slider:** A dynamic slider showcasing featured products.  
+- **Product Details:** Detailed view of selected products with images, descriptions, and purchase options.  
+- **Features Section:** Highlights store offers such as free shipping, easy returns, and gift cards.  
+- **Gallery:** A visual gallery displaying products and setups.  
+- **New Arrivals:** Section highlighting the latest arrivals and collections.  
+- **Footer:** Contains links to key pages, social media, and a newsletter subscription form.  
+- **Responsive Design:** Fully responsive layout for desktop and mobile devices, ensuring a smooth user experience.
 
-Navigation Bar: A navigation bar with categories for different types of computer hardware.
+---
 
-Product Slider: A dynamic slider showcasing featured products.
+### 💻 Technologies Used
 
-Product Details: Detailed view of a selected product with images, description, and purchase options.
+- **HTML**  
+- **CSS**  
+- **JavaScript**
 
-Features Section: Highlights of the store's offers such as free shipping, easy returns, and gift cards.
+---
 
-Gallery: A visual gallery of products and setups.
+### 👥 Team Members
 
-New Arrivals Section: Section highlighting new arrivals and latest collections.
+- **Abdullah Shibib** — *Full Stack Developer* | 📧 [abdullahshibib@yahoo.com](mailto:abdullahshibib@yahoo.com)  
+- **Rami El-Hajjar** — *Front-End Developer* | 📧 [ramihajjar26@gmail.com](mailto:ramihajjar26@gmail.com)  
+- **Omar Younes** — *Back-End Developer* | 📧 [oyounes541@gmail.com](mailto:oyounes541@gmail.com)
 
-Footer: Includes links to important pages, social media, and a newsletter subscription form.
+---
 
-Responsive Design: The layout adapts to different screen sizes, ensuring a good user experience on both desktop and mobile devices.
+### ⚙️ Installation
 
-Technologies Used HTML
-
-CSS
-
-JavaScript
-
-Abdullah Shibib (FullStack Developer) - abdullahshibib@yahoo.com
-
-Rami El-Hajjar (Front-End Developer) - ramihajjar26@gmail.com
-
-Omar Younes (Back-End Developer) - oyounes541@gmail.com
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/electronic-store.git
