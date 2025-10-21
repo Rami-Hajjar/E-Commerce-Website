@@ -37,7 +37,7 @@ Below is a comprehensive guide to understand and work with the project.
 
 ## 📁 Project Structure
 
-` ``` `
+\```
 Electronic-Store/
 │
 ├── index.html          # Main homepage
@@ -47,6 +47,7 @@ Electronic-Store/
 ├── js/
 │   └── script.js       # JavaScript functionality
 └── images/             # Product and gallery images
+\```
 
 ---
 
