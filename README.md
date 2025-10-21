@@ -37,7 +37,7 @@ Below is a comprehensive guide to understand and work with the project.
 
 ## 📁 Project Structure
 
-```text
+` ``` `
 Electronic-Store/
 │
 ├── index.html          # Main homepage
